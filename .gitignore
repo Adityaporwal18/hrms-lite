@@ -1,0 +1,11 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+hrms.db
+
+# Node
+node_modules/
+
+# Environment
+.env
